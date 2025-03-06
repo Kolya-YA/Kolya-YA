@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ### Contact info
-- Web: https://plus360.eu/ (in prodress)
+- Web: https://plus360.eu/ (in progress)
 - Portfolio: https://portfolio.plus360.eu/ (always in progress 🤣)
-- Mail: n.kolomyytsev@protonmail.com
+- E-mail: n.kolomyytsev@protonmail.com
 
 <!--
 ### GitHub stats
